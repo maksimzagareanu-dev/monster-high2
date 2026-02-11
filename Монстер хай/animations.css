@@ -1,0 +1,10 @@
+/* .bat {
+  position: fixed;
+  width: 40px;
+  animation: fly 12s linear infinite;
+}
+
+@keyframes fly {
+  from { transform: translateX(-10%); }
+  to { transform: translateX(110%); }
+} */
